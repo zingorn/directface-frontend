@@ -13,6 +13,7 @@
     "target-dir": "Directface/Mvc",
     "require": {
         "php": ">=5.3.3",
+        "zendframework/zend-modulemanager": "2.*",
 		"zendframework/zend-mvc": "2.*",
         "zendframework/zend-loader": "2.*",
         "zendframework/zend-form": "2.*",
